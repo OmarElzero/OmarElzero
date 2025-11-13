@@ -1,5 +1,5 @@
 [![MasterHead](https://i.gifer.com/5eKX.gif...)](https://OmarElzero.io)
-<h1 align="center">Hi 👋, I'm Omar Ebrahim</h1>
+<h1 align="center">Hi 👋, I'm Omar Betawy</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
 <img align = "right" alt="coding" src="https://i.gifer.com/5eKX.gif">
